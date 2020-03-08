@@ -1,7 +1,3 @@
-import * as React from 'react'
+import HalfModal from './components/HalfModal'
 
-const HelloWorld = () => {
-  return <h2>Hello there!</h2>
-}
-
-export default HelloWorld
+export default HalfModal
